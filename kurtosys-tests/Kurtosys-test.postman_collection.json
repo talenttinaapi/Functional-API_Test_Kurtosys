@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "3b28e4c9-aec1-477a-beed-385ca5c6485f",
+		"name": "Kurtosys-test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30144735"
+	},
+	"item": [
+		{
+			"name": "FunctionalTest",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
